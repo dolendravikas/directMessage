@@ -1,6 +1,6 @@
 # directMessage
 
-![directMEssage](Images\logo.png)
+<img src="Images\logo.png" alt="logo"/>
 
 A custom piece of hardware that communicates with the other same device over a secure 865MHz (EU868/US915/AU915/KR920/IN865) channel using the Lora E5 SOC from the Seeed Studios.
 
@@ -13,8 +13,8 @@ Everyone knows how interconnected 21st-century life is and the ubiquity of the i
 ## PCB top & bottom layer
 
 <p>
-    <img src="Images\toplayer.png" alt="front" height="500"/>
-    <img src="Images\bottonlayer.png" alt="back" height="500"/>
+    <img src="Images\toplayer.png" alt="top_layer" height="500"/>
+    <img src="Images\bottonlayer.png" alt="bottom_layer" height="500"/>
 </p>
 
 ## Device Front & Back view
