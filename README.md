@@ -10,7 +10,12 @@ A custom piece of hardware that communicates with the other same device over a s
 
 Everyone knows how interconnected 21st-century life is and the ubiquity of the internet. There's no privacy in this current century. You can’t even communicate privately with your friend by bypassing the network service provider or a 3rd person who is interested in you with the traditional way of communicating channels. So I planned to design and develop a device using the LoRa E5 SOC from the Seeed Studios which can establish a secure communication channel where the 3rd person can’t even predict the frequency of the channel that you are using to communicate. Yes, it’s retro time, This device is something like a two-way pager with advanced features like live navigating and sharing location, altitude, and attitude but has a limited range in the order of very few hundred meters.
 
-## Layout Front & Back view
+## PCB top & bottom layer
+
+<p>
+    <img src="Images\toplayer.png" alt="front" height="500"/>
+    <img src="Images\bottonlayer.png" alt="back" height="500"/>
+</p>
 
 ## Device Front & Back view
 
