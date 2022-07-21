@@ -1,6 +1,6 @@
 # directMessage
 
-![directMEssage](Images\logo.png)
+![directMessage](Images\logo.png)
 
 A custom piece of hardware that communicates with the other same device over a secure 865MHz (EU868/US915/AU915/KR920/IN865) channel using the Lora E5 SOC from the Seeed Studios.
 
