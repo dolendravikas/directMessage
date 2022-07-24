@@ -14,7 +14,7 @@ Everyone knows how interconnected 21st-century life is and the ubiquity of the i
 
 <p>
     <img src="Images\toplayer.png" alt="toplayer" height="500"/>
-    <img src="Images\bottonlayer.png" alt="bottomlayer" height="500"/>
+    <img src="Images\bottomlayer.png" alt="bottomlayer" height="500"/>
 </p>
 
 ## Device Front & Back view
