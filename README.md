@@ -42,3 +42,4 @@ The following are the **Hardware features** of first version of the directMessag
     <img src="Images\front.png" alt="front" height="500"/>
     <img src="Images\back.png" alt="back" height="500"/>
 </p>
+
